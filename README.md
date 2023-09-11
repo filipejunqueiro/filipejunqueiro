@@ -2,12 +2,11 @@
 <h3 align="center">I'm a student at ATEC - Academia de Formação</h3>
 
 <h3 align="left">About me:</h3>
-<p align="left">
+
 - 🔭 Currently studying on [ATEC](https://www.atec.pt/)
-</p>
-<p align="left">
+
 - 📫 How to reach me **filipe.junqueiro.2005@gmail.com**
-</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
