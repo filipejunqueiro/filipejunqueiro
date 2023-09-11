@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Filipe Junqueiro</h1>
 
+## 📷 Social Media
+
+<p align="center">
+ <a href="https://twitter.com/filipejunqueiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="filipejunqueiro" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/filipejunqueiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="filipejunqueiro" height="30" width="40" /></a>
+  <a href="https://discord.gg/https://discord.gg/5uPEVDWfvZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/5uPEVDWfvZ" height="30" width="40" /></a></a>
+</p>
+
 ## 🧑 About me
 
   - 🌱 Always trying to expand my knowledge
