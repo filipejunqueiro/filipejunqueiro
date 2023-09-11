@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Filipe Junqueiro</h1>
 <h3 align="center">I'm a student at ATEC - Academia de Formação</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=filipejunqueiro&label=Profile%20views&color=00aaff&style=flat-square" alt="filipejunqueiro" /> </p>
-
+<h3 align="left">About me:</h3>
+<p align="left">
 - 🔭 Currently studying on [ATEC](https://www.atec.pt/)
-
+</p>
+<p align="left">
 - 📫 How to reach me **filipe.junqueiro.2005@gmail.com**
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
