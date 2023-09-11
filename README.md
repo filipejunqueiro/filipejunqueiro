@@ -8,7 +8,7 @@
   
   - 🔭 Currently studying on [ATEC](https://www.atec.pt/)
   
-  - 📫 How to reach me **filipe.junqueiro.2005@gmail.com**
+  - 📫 How to reach me **contact.filipejq@icloud.com**
 
 ## 🔥 Github Stats
 
