@@ -2,8 +2,6 @@
 
 ## 🧑 About me
 
-<details>
-  <summary>Read more about me</summary>
   - 🌱 Allways trying to expanding  my knowledge 
   
   - 🤝 Passionate about teamwork
@@ -11,15 +9,14 @@
   - 🔭 Currently studying on [ATEC](https://www.atec.pt/)
   
   - 📫 How to reach me **filipe.junqueiro.2005@gmail.com**
-</details>
 
 ## 🔥 Github Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=filipejunqueiro&theme=dark&title_color=ff3068?" />
+  <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api?username=filipejunqueiro&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=filipejunqueiro&layout=compact&theme=dark&title_color=ff3068?" />
+  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=filipejunqueiro&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
 </a>
 
 ## 🔨 Languages and Tools
