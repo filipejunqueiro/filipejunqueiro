@@ -16,10 +16,10 @@
 ## 🔥 Github Stats
 
 <a href="https://github.com/filipejunqueiro">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=filipejunqueiro&theme=dark&title_color=ff3068?">
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=filipejunqueiro&theme=dark&title_color=ff3068?">
 </a>
 <a href="https://github.com/filipejunqueiro">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats">
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=filipejunqueiro&theme=dark&title_color=ff3068?">
 </a>
 
 ## 🔨 Languages and Tools
