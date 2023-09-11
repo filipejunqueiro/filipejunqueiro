@@ -2,7 +2,7 @@
 
 ## 🧑 About me
 
-  - 🌱 Allways trying to expanding  my knowledge 
+  - 🌱 Always trying to expand my knowledge
   
   - 🤝 Passionate about teamwork
   
