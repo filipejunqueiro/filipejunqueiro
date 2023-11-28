@@ -6,7 +6,7 @@
   
   - 🤝 Passionate about teamwork
   
-  - 🔭 Currently studying on [ATEC](https://www.atec.pt/)
+  - 🔭 Currently studying at [ATEC](https://www.atec.pt/)
   
   - 📫 How to reach me **contact.filipejq@icloud.com**
 
